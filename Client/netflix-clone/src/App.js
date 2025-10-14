@@ -1,9 +1,10 @@
 import './App.css';
+import Home from './pages/Home/home';
 
 function App() {
   return (
     <div>
-      <h1>My Netflix EBBE</h1>
+      <Home/>
     </div>
   );
 }
